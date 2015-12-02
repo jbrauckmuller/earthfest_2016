@@ -128,7 +128,7 @@ form {
 }
 
 .hero {
-    background-image: url("/caires/wp-content/themes/earthfest/images/caires_banner.jpg");
+    background-image: url("/wp-content/themes/earthfest/images/caires_banner.jpg");
     background-position: center;
     height: 500px;
 }
@@ -196,7 +196,7 @@ h3, h4, h6 {
 .sponsors {
     background-color: #F9F8F8;
     padding: 6em;
-    background-image: url("/caires/wp-content/themes/earthfest/images/sponsors.png");
+    background-image: url("/wp-content/themes/earthfest/images/sponsors.png");
     background-size: cover;
     background-position: center;
 }
@@ -226,7 +226,7 @@ h3, h4, h6 {
 }
 
 .music {
-    background-image: url("/caires/wp-content/themes/earthfest/images/music.png");
+    background-image: url("/wp-content/themes/earthfest/images/music.png");
     background-size: cover;
     background-position: center;
 

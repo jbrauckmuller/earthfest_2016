@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 <!-- Top Banner -->
 	<section class="row">
-	    <img src="/caires/wp-content/themes/earthfest/images/caires_banner.png" width="100%" alt="Earth Fest Banner">
+	    <img src="/wp-content/themes/earthfest/images/caires_banner.png" width="100%" alt="Earth Fest Banner">
 	</section>
 <!-- Introduction -->
 	<section class="row">
@@ -17,7 +17,7 @@
 	<section class="row homepage-content">
 	    <div class="twelve columns">
 	        <div class="homepage-link">
-	            <a href="http://jamie.brauckmuller.com/caires/index.php/news-updates/"><h4 class="center homepage-headline">News &amp; Updates</h4></a>
+	            <a href="http://ufearthfest.org/index.php/news-updates/"><h4 class="center homepage-headline">News &amp; Updates</h4></a>
 	            <p>Be the first to know who’s coming and what’s happening!</p>    
 	        </div>
 	    </div>
@@ -27,7 +27,7 @@
 	    <div class="container">    
 	        <div class="twelve columns">
 	            <div class="homepage-link">
-	                <a href="http://jamie.brauckmuller.com/caires/index.php/music-entertainment/"><h4 class="center homepage-headline">Music &amp; Entertainment</h4></a>
+	                <a href="http://ufearthfest.org/index.php/music-entertainment/"><h4 class="center homepage-headline">Music &amp; Entertainment</h4></a>
 	                <p class="bold">Live Bands  &lsaquo;  Art  &rsaquo;  Discussion Panels</p>
 	                <p>Music from acapella groups and local bands.</br>Check out information about the bands and more!</p>
 	        	</div>
@@ -39,7 +39,7 @@
 		<div class="container">
 		    <div class="twelve columns">
 		        <div class="homepage-link">
-		            <a href="http://jamie.brauckmuller.com/caires/index.php/food/"><h4 class="center homepage-headline">Food &amp; Drinks</h4></a>
+		            <a href="http://ufearthfest.org/index.php/food/"><h4 class="center homepage-headline">Food &amp; Drinks</h4></a>
 		            <p>From beer and cheese soup to vegan Sloppy Joe’s – we’ve got something for everyone’s taste. Check out the menus and food trucks coming!</p>
 		        </div>
 			</div>
@@ -50,7 +50,7 @@
 	    <div class="container">
 	        <div class="twelve columns">
 	            <div class="homepage-link">
-	                <a href="http://jamie.brauckmuller.com/caires/index.php/organizations/"><h4 class="center homepage-headline">Organizations</h4></a>
+	                <a href="http://ufearthfest.org/index.php/organizations/"><h4 class="center homepage-headline">Organizations</h4></a>
 	                <p class="bold">Find out who’s coming!</p>
 	                <p>A visit from our local farms and vendors, environmental, multicultural, art groups and more.</p> 
 	            </div>
@@ -61,7 +61,7 @@
 	<section class="row homepage-content sponsors">
 	    <div class="twelve columns">
 	        <div class="homepage-link">
-	            <a href="http://jamie.brauckmuller.com/caires/index.php/sponsors/"><h4 class="center homepage-headline">Sponsors</h4></a>
+	            <a href="http://ufearthfest.org/index.php/sponsors/"><h4 class="center homepage-headline">Sponsors</h4></a>
 	            <p>Meet the businesses and organizations who are making this event possible. Thank you all!</p>
 	        </div>
 	    </div>
